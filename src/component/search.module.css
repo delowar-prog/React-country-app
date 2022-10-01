@@ -1,0 +1,10 @@
+.searchFiled{
+    text-align: center;
+}
+.searchFiled input{
+    padding: 0.5rem;
+    width: 25%;
+    background-color: rgb(248, 239, 187);
+    font-size: 16px;
+    border-radius: 0.5rem;
+}
